@@ -7,3 +7,4 @@ if os.path.exists(dotenv_path):
     load_dotenv(dotenv_path)
     
 from flask_web.app import app
+
